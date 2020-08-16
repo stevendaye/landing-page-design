@@ -7,7 +7,7 @@ A simple yet modern ecommerce site for Varal Consulting
 
 ## Online Links
 ### Production
-- https://varal-landing-app.herokuapp.com
+- https://varal-landing-page.herokuapp.com
 
 ### Repository
 - https://github.com/stevendaye/varal-landing-app
@@ -16,6 +16,6 @@ A simple yet modern ecommerce site for Varal Consulting
 Follow these instructions.
 - `git clone https://github.com/stevendaye/varal-landing-app`
 
-- `cd varal-landin-app`
+- `cd varal-landing-app`
 
 - `open index.html`
